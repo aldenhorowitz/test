@@ -1,0 +1,4 @@
+int IsEven(int number) {
+If number % 2 == 0 then 1
+else 0
+}
